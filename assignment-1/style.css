@@ -220,7 +220,7 @@ frame{
     background-size: cover;
     border-radius: 16px;
     margin-top: 49px;
-    background: rgba(100, 0, 0, 0.2),rgba(0, 0, 50, 0.2),rgba(0, 0, 80, 0.2),url(Email);
+    background: #c3e5f7,url(Email);
     text-align: center;
     padding: 64px 48px 64px 48px;
 
@@ -232,7 +232,7 @@ frame{
 .support-title{
     font-size: 32px;
     font-weight: 700;
-    color: #fff;
+    color: #e00909;
     padding-top: 64px;
 }
 .support-description{
@@ -241,7 +241,7 @@ frame{
     line-height: 26px;
     letter-spacing: 0%;
     text-align: center;
-    color: #FFFFFF;
+    color: #ff08ce;
 }
 .feedback {
     display: flex;
@@ -251,6 +251,7 @@ frame{
     height: 57px;
     font-size: 16px;
     font-weight: 400;
+    color: #3ae9f2;
 }
 
 .feedback input {

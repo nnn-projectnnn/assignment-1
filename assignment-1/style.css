@@ -182,7 +182,7 @@ frame{
 
 .card1{
     border-radius: 10px;
-    margin-left: 0;
+    margin-left: 0px;
     background: #FDCCC5
 }
 .card2{
@@ -220,7 +220,7 @@ frame{
     background-size: cover;
     border-radius: 16px;
     margin-top: 49px;
-    background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),url(Email);
+    background: rgba(100, 0, 0, 0.2),rgba(0, 0, 50, 0.2),rgba(0, 0, 80, 0.2),url(Email);
     text-align: center;
     padding: 64px 48px 64px 48px;
 
